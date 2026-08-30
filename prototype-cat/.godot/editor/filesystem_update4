@@ -1,0 +1,6 @@
+res://Script/State.gd
+res://Script/Player.gd
+res://Script/StateMachine.gd
+res://Script/IdleState.gd
+res://Script/WalkState.gd
+res://debug.tscn
