@@ -9,7 +9,7 @@ func enter() -> void:
 	pass
 
 func update(delta:float) -> void:
-	print("Andando")
+	#print("Andando")
 	pass
 
 func fixed_update(delta:float) -> void:

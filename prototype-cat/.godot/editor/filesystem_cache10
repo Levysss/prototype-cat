@@ -1,3 +1,13 @@
-63f7b34db8d8cdea90c76aacccf841ec
-::res://::1788099583
-icon.svg::CompressedTexture2D::530312228098799395::1788099573::1788099584::1::::<><><>0<>0<>752ef3e30487eac3575ea90bd9e91f53<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+78098b89c88a74ebe8c20117b8754620
+::res://::1788288506
+debug.tscn::PackedScene::5240997195275104549::1788210571::0::1::::<><><>0<>0<><>::uid://hs5fuv517pf4::::res://icon.svg<>uid://pjv8da24t4o5::::res://Script/Player.gd<>uid://d042gf4dedelh::::res://Prefabs/Bullet.tscn
+icon.svg::CompressedTexture2D::530312228098799395::1788111058::1788111058::1::::<><><>0<>0<>752ef3e30487eac3575ea90bd9e91f53<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Prefabs/::1788204229
+Bullet.tscn::PackedScene::8975500478023823493::1788204229::0::1::::<><><>0<>0<><>::uid://cglnthah5ufbj::::res://Script/Bullet.gd<>uid://hs5fuv517pf4::::res://icon.svg
+::res://Script/::1788210571
+Bullet.gd::GDScript::5217506203521591967::1788204143::0::1::::<>Node2D<><>0<>0<><>::
+IdleState.gd::GDScript::2936504024288696149::1788111950::0::1::::IdleState<>State<><>0<>0<><>::
+Player.gd::GDScript::1072746201240322486::1788210571::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
+State.gd::GDScript::297164344393603935::1788111058::0::1::::State<>Node<><>0<>0<><>::
+StateMachine.gd::GDScript::6653157843358505043::1788111058::0::1::::StateMachine<>Node<><>0<>0<><>::
+WalkState.gd::GDScript::7164943470673313453::1788111958::0::1::::WalkState<>State<><>0<>0<><>::

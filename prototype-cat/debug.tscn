@@ -2,6 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://hs5fuv517pf4" path="res://icon.svg" id="1_1uwqr"]
 [ext_resource type="Script" uid="uid://pjv8da24t4o5" path="res://Script/Player.gd" id="1_lvjdj"]
+[ext_resource type="PackedScene" uid="uid://d042gf4dedelh" path="res://Prefabs/Bullet.tscn" id="3_rdi1l"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_lvjdj"]
 size = Vector2(125, 119)
@@ -18,3 +19,8 @@ shape = SubResource("RectangleShape2D_lvjdj")
 
 [node name="Sprite2D" type="Sprite2D" parent="Player" unique_id=439406290]
 texture = ExtResource("1_1uwqr")
+
+[node name="Bullet" parent="." unique_id=1922322494 instance=ExtResource("3_rdi1l")]
+position = Vector2(538, 202)
+
+[node name="BulletsPool" type="Node2D" parent="." unique_id=1939336325]

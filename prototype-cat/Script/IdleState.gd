@@ -8,7 +8,8 @@ func enter() -> void:
 	pass
 
 func update(delta:float) -> void:
-	print("Parado")
+	#Sprint("Parado")
+	pass
 	
 
 func fixed_update(delta:float) -> void:
